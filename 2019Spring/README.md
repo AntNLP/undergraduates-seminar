@@ -3,7 +3,7 @@ ECNU NLP group learning Hung-yi Lee Machine Learning and Deep Learning in the fo
 
 ## Seminar Participants
 
-纪焘、杜雨沛、韦阳、黄子寅、郑淇、刘宇芳、江心雨、陈芷萱、裴胜军、金恺翔、谢涛、李楷达、陆逢源、顾诚源
+韦阳、黄子寅、刘宇芳、江心雨、陈芷萱、裴胜军、金恺翔、谢涛、李楷达、陆逢源、顾诚源
 
 剩下的参加的同学自行添加^_^
 
