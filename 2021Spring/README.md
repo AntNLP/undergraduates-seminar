@@ -50,6 +50,6 @@ Our Seminar will cover almost all the content of the following materials:
 ||Lecture 12 |·Naive Bayes<br>·HMM<br>·Maximum Entropy<br>·CRF |**Videos**<br>[[李]HMM&CRF](https://www.bilibili.com/video/BV1zJ411575b?from=search&seid=7199918413166459805)<br>[[白]P82-89、97-104](https://www.bilibili.com/video/BV1aE411o7qd?p=82)<br>**Readings**<br>[统学]Chap4、6、10-11<br>[西瓜书]Chap7<br>[PRML]Chap13 | 刘宇芳|
 ||Lecture 13 |·Boltzmann Machine<br>·Deep Belief Network|**Videos**<br>[[白]P117-122](https://www.bilibili.com/video/BV1aE411o7qd?p=117)<br>**Readings**<br>[蒲公英书]Chap12<br>[花书]Chap20| 黄子寅|
 ||Lecture 14 |·Variational Autoencoder<br>·Generative Adversarial Network<br>·Sequence Generation Model|**Videos**<br>[[李18]P12、18-27](https://www.bilibili.com/video/BV1gt411U7tX?p=12)<br>[[李20]BERT](https://www.bilibili.com/video/BV1JE411g7XF?p=63)<br>**Readings**<br>[蒲公英书]Chap13、15| 刘宇芳|
-||Lecture 15 |·Introduction to Learning Theory|**Videos**<br>[[李18]P1-10](https://www.bilibili.com/video/BV1gt411U7tX?p=1)<br>**Readings**<br>[西瓜书]Chap12 | 李鹏|
+||Lecture 15 |·Introduction to Learning Theory|**Videos**<br>[[李18]P1-10](https://www.bilibili.com/video/BV1gt411U7tX?p=1)<br>**Readings**<br>[西瓜书]Chap12 | 纪焘|
 
 
