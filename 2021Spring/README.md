@@ -52,4 +52,9 @@ Our Seminar will cover **almost all the content** of the following materials:
 ||Lecture 14 |·Variational Autoencoder<br>·Generative Adversarial Network<br>·Sequence Generation Model|**Videos**<br>[[李18]P12、18-27](https://www.bilibili.com/video/BV1gt411U7tX?p=12)<br>[[李20]BERT](https://www.bilibili.com/video/BV1JE411g7XF?p=63)<br>**Readings**<br>[蒲公英书]Chap13、15| 刘宇芳|
 ||Lecture 15 |·Introduction to Learning Theory|**Videos**<br>[[李18]P1-10](https://www.bilibili.com/video/BV1gt411U7tX?p=1)<br>**Readings**<br>[西瓜书]Chap12 | 纪焘|
 
-
+## Related Online Courses
+- [Stanford CS229: Machine Learning](http://cs229.stanford.edu/)
+- [Stanford CS231N: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+- [Stanford CS224N: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
+- [Stanford CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/)
+- [CMU 10-708: Probabilistic Graphical Models](http://www.cs.cmu.edu/~epxing/Class/10708-20/)
