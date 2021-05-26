@@ -8,8 +8,8 @@ If you are interested in related fields and working with us, you can apply to at
 
 
 ## Venue & Time
-- TBD
-
+**Time:** 9:00 am, Wednesday    
+**Venue:** B714, Science Building
 
 ## Syllabus
 You can click [here](./syllabus.md) for the syllabus information and get the big picture of our seminar.
@@ -18,15 +18,15 @@ You can click [here](./syllabus.md) for the syllabus information and get the big
 
 ## Main Reference Materials
 
-Our Seminar will cover almost all the content of the following materials:
+Our Seminar will cover **almost all the content** of the following materials:
 
-- 李宏毅老师视频课程（**李**）[link](https://speech.ee.ntu.edu.tw/~tlkagk/)
-- B站“白板推导系列”视频课程（**白**）[link](https://www.bilibili.com/video/BV1aE411o7qd?p=6)
-- 《统计学习方法》李航著（**统学**）[link](https://book.douban.com/subject/33437381/)
-- 《机器学习》周志华著（**西瓜书**）[link](https://book.douban.com/subject/26708119/)
-- 《模式识别与机器学习》Christopher Bishop著，马春鹏译（**PRML**）[link](https://book.douban.com/subject/2061116/)
-- 《神经网络与深度学习》邱锡鹏著（**蒲公英书**）[link](https://nndl.github.io/)
-- 《深度学习》Ian Goodfellow 等著 （**花书**）[link](https://www.deeplearningbook.org/)
+- [**李**] 李宏毅老师视频课程 [link](https://speech.ee.ntu.edu.tw/~tlkagk/)
+- [**白**] B站“白板推导系列”视频课程 [link](https://www.bilibili.com/video/BV1aE411o7qd?p=6)
+- [**统学**]《统计学习方法》李航著 [link](https://book.douban.com/subject/33437381/)
+- [**西瓜书**]《机器学习》周志华著 [link](https://book.douban.com/subject/26708119/)
+- [**PRML**]《模式识别与机器学习》Christopher Bishop著，马春鹏译 [link](https://book.douban.com/subject/2061116/)
+- [**蒲公英书**]《神经网络与深度学习》邱锡鹏著[link](https://nndl.github.io/)
+- [**花书**]《深度学习》Ian Goodfellow 等著 [link](https://www.deeplearningbook.org/)
 
 
 
@@ -36,11 +36,11 @@ Our Seminar will cover almost all the content of the following materials:
 
 | Date|  Event   |    Topics | Materials | Speaker |
 | :-- | :-------- | :-------- | :---- | :--- |
-|| Lecture 1  | ·What is Machine Learning?<br>·Mathematical Foundation<br>·Regression<br>·Linear Regression<br>·Machine Learning Tools   |**Videos**<br> [[李]P1-9](https://www.bilibili.com/video/BV13x411v7US?from=search&seid=3055615304013256096)<br>[[白]P1-12](https://www.bilibili.com/video/BV1aE411o7qd?from=search&seid=5348039664676221956)<br>**Readings** <br> [统学]Chap1<br>[西瓜书]Chap1-3<br>[PRML]Chap1-3<br>[蒲公英书]Chap1-2、附录<br>[花书]Chap1-5  | 李鹏 |
-|| Lecture 2  |·Classification<br>·k-Nearest Neighbors<br>·Decision Tree   |**Readings**<br>[统学]Chap3、5<br>[西瓜书]Chap4    | 杜威 |  
-|| Lecture 3  | ·Ensemble<br>·Bagging<br>·Boosting    |**Videos**<br>[[李]P38](https://www.bilibili.com/video/BV13x411v7US?p=38)<br>**Readings**<br>[统学]Chap8<br>[西瓜书]Chap8<br>[PRML]Chap14   |  周杰|  
-||Lecture 4 |·Linear Classifier<br>·Perception<br>·Logistic Regression<br>·SVM |**Videos**<br>[[李]P10-12、P31](https://www.bilibili.com/video/BV13x411v7US?p=10)<br>[[白]P13-20、P28-38](https://www.bilibili.com/video/BV1aE411o7qd?p=13)<br>**Readings**<br>[统学]Chap2、6、7<br>[西瓜书]Chap6<br>[PRML]Chap4、6、7<br>[蒲公英书]Chap3| 白庆春|
-||Lecture 5 |·Multilayer Perceptron<br>·Backpropagation |**Videos**<br>[[李]P13-14、22](https://www.bilibili.com/video/BV13x411v7US?p=13)<br>[[白]P128-130](https://www.bilibili.com/video/BV1aE411o7qd?p=128)<br>**Readings**<br>[西瓜书]Chap5<br>[PRML]Chap5<br>[蒲公英书]Chap4<br>[花书]Chap6| 杜威|
+|06/02| Lecture 1  | ·What is Machine Learning?<br>·Mathematical Foundation<br>·Regression<br>·Linear Regression<br>·Machine Learning Tools   |**Videos**<br> [[李]P1-9](https://www.bilibili.com/video/BV13x411v7US?from=search&seid=3055615304013256096)<br>[[白]P1-12](https://www.bilibili.com/video/BV1aE411o7qd?from=search&seid=5348039664676221956)<br>**Readings** <br> [统学]Chap1<br>[西瓜书]Chap1-3<br>[PRML]Chap1-3<br>[蒲公英书]Chap1-2、附录<br>[花书]Chap1-5  | 李鹏 |
+|06/09| Lecture 2  |·Classification<br>·k-Nearest Neighbors<br>·Decision Tree   |**Readings**<br>[统学]Chap3、5<br>[西瓜书]Chap4    | 杜威 |  
+|06/16| Lecture 3  | ·Ensemble<br>·Bagging<br>·Boosting    |**Videos**<br>[[李]P38](https://www.bilibili.com/video/BV13x411v7US?p=38)<br>**Readings**<br>[统学]Chap8<br>[西瓜书]Chap8<br>[PRML]Chap14   |  周杰|  
+|06/23|Lecture 4 |·Linear Classifier<br>·Perception<br>·Logistic Regression<br>·SVM |**Videos**<br>[[李]P10-12、P31](https://www.bilibili.com/video/BV13x411v7US?p=10)<br>[[白]P13-20、P28-38](https://www.bilibili.com/video/BV1aE411o7qd?p=13)<br>**Readings**<br>[统学]Chap2、6、7<br>[西瓜书]Chap6<br>[PRML]Chap4、6、7<br>[蒲公英书]Chap3| 白庆春|
+|06/30|Lecture 5 |·Multilayer Perceptron<br>·Backpropagation |**Videos**<br>[[李]P13-14、22](https://www.bilibili.com/video/BV13x411v7US?p=13)<br>[[白]P128-130](https://www.bilibili.com/video/BV1aE411o7qd?p=128)<br>**Readings**<br>[西瓜书]Chap5<br>[PRML]Chap5<br>[蒲公英书]Chap4<br>[花书]Chap6| 杜威|
 ||Lecture 6 |·Convolutional Neural Network<br>·Recurrent Neural Network  |**Videos**<br>[[李]P21、36-37](https://www.bilibili.com/video/BV13x411v7US?p=21)<br>**Readings**<br>[蒲公英书]Chap5-6<br>[花书]Chap9-10|高怡 |
 ||Lecture 7|·Recursive Neural Network<br>·Graph Neural Network |**Videos**<br>[[李18]P14](https://www.bilibili.com/video/BV1gt411U7tX?p=14)<br>[[CS224W] GNN部分](https://www.bilibili.com/video/BV1jE41177A4?p=10)<br>**Readings**<br>[[CS224W] GNN部分](http://web.stanford.edu/class/cs224w/index.html#schedule) | 杨晰|
 ||Lecture 8|·Optimization and Regularization of Network<br>·Attention Mechanism<br>·External Memory |**Videos**<br>[[李]P18](https://www.bilibili.com/video/BV13x411v7US?p=18)<br>**Readings**<br>[蒲公英书]Chap7-8<br>[花书]Chap7-8、11-12 | 高怡|
